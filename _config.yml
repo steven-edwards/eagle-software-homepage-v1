@@ -19,12 +19,12 @@ footer:
     - new_window: true
       text: Made with Stackbit
       url: 'https://www.stackbit.com'
-  logo_img: images/logo_alt.png
+  logo_img: /images/esc_master_logo_file-02.png
   nav_title: Company
   social_title: Community
   subscribe_content: Stay up to date with our latest developments.
   subscribe_title: Subscribe
-  tagline: SaaS theme by Stackbit
+  tagline: ''
 sass:
   indentWidth: 4
   precision: 10
